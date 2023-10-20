@@ -1,0 +1,120 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+projettest
+</name>
+</assembly>
+<members>
+<member name="P:projet_test.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.agent_accueil03">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.características_de_china">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.ChefchaouenMorocco">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.daa_podcast">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.future_of_recruiting_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.grece_Santorini1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.icon_belgaimage_153535230_1_5f5f9e0e7cc6d">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.italie_ville_venise">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.Mes_bisous_et_câlins">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.Mes_bisous_et_câlins1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.Mes_bisous_et_câlins2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.Mes_bisous_et_câlins3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.Mes_bisous_et_câlins4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.Mes_bisous_et_câlins5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.Mes_bisous_et_câlins6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.plaza_de_espana_sevilha_1024x642">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.restaurant_hotel_lesirenuse_positano_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.sad_man">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.sky_series_collection_hdri_atmospheres_3d_model">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.Turismo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.turquie_ville_istanbul_mosquee_bateaux_1920x1080">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.turquie_ville_istanbul_mosquee_bateaux_1920x10801">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.Voyage_en_avion_on_connait_l_astuce_pour_faire_le_voyage_le_plus_agreable">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:projet_test.My.Resources.Resources.Voyage_en_avion_on_connait_l_astuce_pour_faire_le_voyage_le_plus_agreable1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:projet_test.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

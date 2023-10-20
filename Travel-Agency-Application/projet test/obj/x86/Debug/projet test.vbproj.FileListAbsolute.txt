@@ -1,0 +1,29 @@
+C:\Users\atigs\AppData\Local\Temporary Projects\projet test\bin\Debug\projet test.exe
+C:\Users\atigs\AppData\Local\Temporary Projects\projet test\bin\Debug\projet test.pdb
+C:\Users\atigs\AppData\Local\Temporary Projects\projet test\bin\Debug\projet test.xml
+C:\Users\atigs\AppData\Local\Temporary Projects\projet test\obj\x86\Debug\projet_test.Form1.resources
+C:\Users\atigs\AppData\Local\Temporary Projects\projet test\obj\x86\Debug\projet_test.Resources.resources
+C:\Users\atigs\AppData\Local\Temporary Projects\projet test\obj\x86\Debug\projet test.vbproj.GenerateResource.Cache
+C:\Users\atigs\AppData\Local\Temporary Projects\projet test\obj\x86\Debug\projet test.exe
+C:\Users\atigs\AppData\Local\Temporary Projects\projet test\obj\x86\Debug\projet test.xml
+C:\Users\atigs\AppData\Local\Temporary Projects\projet test\obj\x86\Debug\projet test.pdb
+C:\Users\atigs\AppData\Local\Temporary Projects\projet test\obj\x86\Debug\projet_test.Form2.resources
+C:\Users\atigs\AppData\Local\Temporary Projects\projet test\obj\x86\Debug\projet_test.Form3.resources
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\obj\x86\Debug\projet test.exe
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\obj\x86\Debug\projet test.xml
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\obj\x86\Debug\projet test.pdb
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\obj\x86\Debug\projet_test.Form1.resources
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\obj\x86\Debug\projet_test.Resources.resources
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\obj\x86\Debug\projet_test.Form2.resources
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\obj\x86\Debug\projet_test.Form3.resources
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\obj\x86\Debug\projet_test.Form4.resources
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\obj\x86\Debug\projet test.vbproj.GenerateResource.Cache
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\obj\x86\Debug\projet_test.Form5.resources
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\bin\Debug\projet test.exe
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\bin\Debug\projet test.pdb
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\bin\Debug\projet test.xml
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\obj\x86\Debug\projet_test.Form6.resources
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\obj\x86\Debug\projet_test.Form7.resources
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\obj\x86\Debug\projet_test.Form8.resources
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\obj\x86\Debug\projet_test.Form10.resources
+C:\Users\atigs\Desktop\VB EXERCI\projet test\projet test\obj\x86\Debug\projet_test.Form9.resources
